@@ -15,6 +15,9 @@ persist.cust.tel.eons=1
 # Charger
 ro.charger.enable_suspend=true
 
+# Display
+debug.force_no_blanking=true
+
 # CNE
 persist.vendor.cne.feature=1
 
