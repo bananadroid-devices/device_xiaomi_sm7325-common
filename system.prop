@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 # Bluetooth
 vendor.bluetooth.soc=hastings
 
+=======
+>>>>>>> bb6fceb (sm8350-common: Migrate vendor.camera.aux.packagelist to sdk overlay)
 # Charger
 ro.charger.enable_suspend=true
 
