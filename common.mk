@@ -183,6 +183,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     RemovePackagesDolby
 
+# FastCharge
+PRODUCT_PACKAGES += \
+    vendor.lineage.fastcharge@1.0-service.xiaomi_sm7325
+
 # Fastbootd
 PRODUCT_PACKAGES += \
     fastbootd
